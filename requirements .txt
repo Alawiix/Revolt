@@ -1,0 +1,10 @@
+# optional
+
+# icon rendering (Iconoir SVGs -> crisp rasterized icons)
+
+Pillow>=10.0.0
+cairosvg>=2.7.0
+
+winotify>=1.1.0 ; sys_platform == "win32"
+plyer>=2.1.0
+pystray>=0.19.5
