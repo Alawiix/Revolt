@@ -21,6 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
+<img width="1159" height="755" alt="image" src="https://github.com/user-attachments/assets/847edb2d-6640-4036-9e92-a997da4ddd3c" />
 
 allowlist - because category blocking is never perfect, you can always whitelist stuff
 custom feeds - point it at your own remote blocklist if the built-in categories aren't enough
