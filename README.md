@@ -27,12 +27,12 @@ it's a windows desktop app, built with tkinter (mid PyQt6 migration right now so
 running it from source
 ```
 pip install -r requirements.txt
-python revolt\\\_app\\\_tkniter.py
+python revolt_app_tkniter.py
 ```
 you'll want to run it as admin for the DNS/hosts file stuff to actually work, it'll prompt you with a UAC dialog when it needs elevation.
 building the exe
 ```
-pyinstaller --onefile --manifest revolt.exe.manifest --version-file version.txt --icon=your\\\_icon.ico revolt\\\_app\\\_tkniter.py
+pyinstaller --onefile --manifest revolt.exe.manifest --version-file version.txt --icon=revolt_icon.ico revolt_app_tkniter.py
 ```
 the manifest handles DPI awareness + UAC behavior, the version file is what shows up in the exe's Properties tab in explorer.
 why not just use a free public VPN list / auto-picked servers
