@@ -1,5 +1,4 @@
 # optional
-
 # icon rendering (Iconoir SVGs -> crisp rasterized icons)
 
 Pillow>=10.0.0
