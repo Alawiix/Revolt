@@ -1,3 +1,4 @@
+
 # Revolt
 A free OpenSource  DNS shield, VPN guard, hotspot blocking App designed to make humanity Better
     
@@ -20,7 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
-![GitHub All Releases](https://img.shields.io/github/downloads/alawiix/Revolt/total) 
+
 allowlist - because category blocking is never perfect, you can always whitelist stuff
 custom feeds - point it at your own remote blocklist if the built-in categories aren't enough
 native notifications - real Windows Action Center toasts, not some janky in-app popup that disappears if you alt-tab
@@ -43,3 +44,4 @@ license
 free forever, can't be sold, and it's not for spying on people without their consent - see LICENSE.
 discord
 updates, support, bug reports: https://discord.gg/Y9gqrujAJg
+![GitHub All Releases](https://img.shields.io/github/downloads/alawiix/Revolt/total) 
