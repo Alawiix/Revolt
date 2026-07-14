@@ -1,8 +1,8 @@
 
-# Revolt
+# Revolt 
 A free OpenSource  DNS shield, VPN guard, hotspot blocking App designed to make humanity Better
     
-a content-blocking / parental controls app for windows. blocks stuff at the DNS level, hosts file, VPN, and even hotspot traffic, so it actually sticks instead of being a browser extension someone closes in two seconds.
+a content-blocking / parental controls app for windows. blocks stuff at the DNS level, hosts file, VPN, and even hotspot traffic, so it actually sticks instead of being a browser extension someone closes in two seconds
 made by NCZ.
 what it does
 DNS shield - sinkholes blocked domains so they don't resolve at all
