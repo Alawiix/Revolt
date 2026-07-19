@@ -1,7 +1,7 @@
 
 # Revolt 
-A free OpenSource  DNS shield, VPN guard, hotspot blocking App designed to make humanity Better
-    
+A free OpenSource  DNS shield, VPN guard, hotspot blocking App designed to make humanity Better    
+![GitHub contributors](https://img.shields.io/github/contributors/alawiix/revolt)  
 a content-blocking / parental controls app for windows. blocks stuff at the DNS level, hosts file, VPN, and even hotspot traffic, so it actually sticks instead of being a browser extension someone closes in two seconds
 made by NCZ.
 what it does
@@ -21,8 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                                                                                                                                                            ![GitHub contributors](https://img.shields.io/github/contributors/alawiix/revolt)
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
 
 <img width="1159" height="755" alt="image" src="https://github.com/user-attachments/assets/847edb2d-6640-4036-9e92-a997da4ddd3c" />
