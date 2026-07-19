@@ -21,7 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) ![GitHub contributors](https://img.shields.io/github/contributors/alawiix/revolt)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                                 ![GitHub contributors](https://img.shields.io/github/contributors/alawiix/revolt)
 
 
 
