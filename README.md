@@ -32,6 +32,7 @@ custom feeds - point it at your own remote blocklist if the built-in categories 
 native notifications - real Windows Action Center toasts, not some janky in-app popup that disappears if you alt-tab
 password protected - so it can't just get turned off in 5 seconds
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Alawiix/revolt/total) 
+
 running it from source
 ```
 pip install -r requirements.txt
