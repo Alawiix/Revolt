@@ -21,7 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
-![GitHub All Releases](https://img.shields.io/github/downloads/alawiix/Revolt/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/alawiix/Revolt/total)    [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <img width="1159" height="755" alt="image" src="https://github.com/user-attachments/assets/847edb2d-6640-4036-9e92-a997da4ddd3c" />
 
 allowlist - because category blocking is never perfect, you can always whitelist stuff
