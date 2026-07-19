@@ -21,7 +21,7 @@ blocking topics - pick categories instead of managing a giant domain list yourse
 🤖 AI & Chatbots
 🧅 Tor & Dark Web
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Alawiix/revolt/total)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 
 
 
@@ -31,7 +31,7 @@ allowlist - because category blocking is never perfect, you can always whitelist
 custom feeds - point it at your own remote blocklist if the built-in categories aren't enough
 native notifications - real Windows Action Center toasts, not some janky in-app popup that disappears if you alt-tab
 password protected - so it can't just get turned off in 5 seconds
-it's a windows desktop app, built with tkinter (mid PyQt6 migration right now so some of this will look different soon).
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Alawiix/revolt/total) 
 running it from source
 ```
 pip install -r requirements.txt
