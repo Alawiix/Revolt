@@ -6,7 +6,7 @@ a content-blocking / parental controls app for windows. blocks stuff at the DNS 
 made by NCZ.
 what it does
 DNS shield - sinkholes blocked domains so they don't resolve at all
-hosts file blocking - old school but still works, backs it up so nothing gets nuked
+hosts file blocking old school but still works, backs it up so nothing gets nuked
 lifetime block - permanent blocks that survive uninstall/reinstall attempts
 VPN guard - bring your own WireGuard/OpenVPN config (Revolt doesn't bundle sketchy "free" VPN lists, you connect your own trusted provider)
 hotspot blocking - covers devices connected through your PC's mobile hotspot too, not just the PC itself
